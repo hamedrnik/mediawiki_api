@@ -12,7 +12,7 @@ For instance, to retrieve the Iran page from persian wikipedia:
 
     my_api = Api.new(nil, nil, 'iCEAGE_bot', 'http://fa.wikipedia.org', 'http://fa.wikipedia.org/w/api.php')
 
-	the_page = Page.new("ایران", mysite)
+	the_page = Page.new("ایران", my_api)
 
     puts the_page.get()
 
