@@ -1,0 +1,9 @@
+default_lang: fa
+default_family: wikipedia
+default_user: iCEAGE_bot
+user-agent: mediawiki_api
+NAMESPACE:
+    main:  0
+    project:   4
+    template:   10
+    category:   14
